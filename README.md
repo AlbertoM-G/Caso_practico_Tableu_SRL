@@ -10,25 +10,28 @@ Identificar patrones en la composición demográfica y dinámica de empleo, con 
 
 ## Hallazgos
 1. **Distribución por género y estado civil:**
-   - De los 207 empleados, 126 son hombres y 81 mujeres.
-   - La mayoría de los hombres están casados, mientras que entre las mujeres hay mayor diversidad de estado civil.
+   - SRL es una empresa donde predomina el género femenino; de los 207 empleados, 91 son hombres y 116 mujeres.
+   - Independientemente del género, se obseva que la mayor parte de los empleados están solteros (101 personas), 77 están casadas, mientras que resto (minoría) su estado civil es 
+     divorciado, separado o viudo.
      
 ![image](https://github.com/user-attachments/assets/31733bcb-2330-4aa9-815f-54334542c076)
 
 
 2. **Estatus de empleo por departamento:**
-   - Administración tiene 126 empleados activos y Producción 40.
-   - Los departamentos de Ventas y Producción presentan tasas elevadas de terminaciones voluntarias.
+   - Producción es el departamento que actualmente tiene 126 empleados activos, seguido del departamento de teconologías de la información con 40 colaboradores.
+   - Estos mismos departamentos presentan tasas elevadas de terminaciones voluntarias, sin embargo,  producción se posiciona muy por encima del promedio al acumular un total de 75 bajas.
 
 3. **Motivos de terminación:**
-   - Los principales motivos son cambio de carrera y relocalización.
-   - En 2012, hubo un pico de 67 terminaciones.
-  
+   - 2015 fue el año en que se presntaron la mayor cantidad de renuncias, nuevamente resalta el departamento de producción con la mayor cantidad; en general, es este departamento el que 
+     a través de los años concentra la mayor parte de las bajas de la empresa.
+   - Identificado el departamento de producción con una mayor inestabilidad de duración de talento es preciso conocer los motivos de dicho patrón;
+   - Dentro de las razones principales encontramos el cambio de posición dentro del corporativo, temas motivación y necesidades de ganar más dinero.
+     
 ![image](https://github.com/user-attachments/assets/07518216-1ffd-4254-9d9d-75c7bf21bd15)
 
 
 ## Conclusiones
-El análisis revela la necesidad de mejorar la retención en Ventas y Producción. También se sugiere aumentar la representación femenina y ofrecer oportunidades de desarrollo para reducir terminaciones por cambio de carrera y relocalización.
+El análisis revela la necesidad de mejorar la retención en  Producción. También se sugiere aumentar la representación masculina (por el departamento de producción) y ofrecer oportunidades de desarrollo para reducir terminaciones por cambio de posición, motivación y salario.
 
 ## Referencias
 
